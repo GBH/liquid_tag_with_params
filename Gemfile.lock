@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    liquid_tag_with_params (0.0.1)
+      liquid (>= 4.0.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    liquid (4.0.0)
+    minitest (5.10.3)
+    rake (12.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  liquid_tag_with_params!
+  minitest
+  rake
+
+BUNDLED WITH
+   1.14.6
