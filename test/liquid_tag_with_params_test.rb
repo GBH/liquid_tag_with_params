@@ -1,6 +1,6 @@
-require_relative '../test_helper'
+require_relative 'test_helper'
 
-class Liquid::TagWithParamsTest < MiniTest::Test
+class LiquidTagWithParamsTest < MiniTest::Test
   include Liquid
 
   def test_initialization

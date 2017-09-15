@@ -1,5 +1,5 @@
 require 'liquid'
-require_relative 'tag_with_params/parser'
+require_relative 'liquid_tag_with_params/parser'
 
 class Liquid::TagWithParams < Liquid::Tag
 

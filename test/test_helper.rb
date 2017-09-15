@@ -1,7 +1,6 @@
 require 'bundler/setup'
 require 'minitest/autorun'
-require 'liquid'
-require 'liquid/tag_with_params'
+require 'liquid_tag_with_params'
 
 class MiniTest::Test
 

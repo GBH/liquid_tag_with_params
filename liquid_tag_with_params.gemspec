@@ -1,5 +1,5 @@
 $:.unshift File.expand_path('../lib', __FILE__)
-require 'liquid/tag_with_params/version'
+require 'liquid_tag_with_params/version'
 
 Gem::Specification.new do |s|
   s.name          = "liquid_tag_with_params"

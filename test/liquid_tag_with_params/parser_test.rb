@@ -1,6 +1,6 @@
-require_relative '../../test_helper'
+require_relative '../test_helper'
 
-class Liquid::TagWithParams::ParserTest < MiniTest::Test
+class LiquidTagWithParams::ParserTest < MiniTest::Test
 
   def test_tokenizer
     tokens = LiquidTagWithParams::Parser.tokenize("param")
