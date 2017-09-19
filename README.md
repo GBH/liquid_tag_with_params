@@ -20,6 +20,8 @@ string and will make parameters out of it so you can use them during rendering.
 Here's an example of such tag:
 
 ```ruby
+require 'liquid/tag_with_params'
+
 class ShuffleTag < Liquid::TagWithParams
   def initialize(tag_name, params, tokens)
      super

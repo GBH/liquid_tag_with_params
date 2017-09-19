@@ -1,6 +1,6 @@
 require 'bundler/setup'
 require 'minitest/autorun'
-require 'liquid_tag_with_params'
+require 'liquid/tag_with_params'
 
 class MiniTest::Test
 
@@ -24,5 +24,4 @@ class MiniTest::Test
       flunk 'Exception was not raised'
     end
   end
-
 end

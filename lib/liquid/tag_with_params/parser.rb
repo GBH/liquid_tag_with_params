@@ -1,4 +1,4 @@
-module LiquidTagWithParams::Parser
+module Liquid::TagWithParams::Parser
 
   SINGLE_STRING_LITERAL = /'[^\']*'/
   DOUBLE_STRING_LITERAL = /"[^\"]*"/
