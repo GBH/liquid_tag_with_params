@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version       = LiquidTagWithParams::VERSION
   s.authors       = ["Oleg Khabarov"]
   s.email         = ["oleg@khabarov.ca"]
-  s.homepage      = "http://github.com/comfy/liquid_tag_with_params"
+  s.homepage      = "http://github.com/GBH/liquid_tag_with_params"
   s.summary       = "Liquid::TagWithParams"
   s.description   = "Tag class for Liquid markup that supports extra params"
 

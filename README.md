@@ -1,5 +1,5 @@
 # Liquid Tag With Params
-[![Gem Version](https://img.shields.io/gem/v/liquid_tag_with_params.svg?style=flat)](http://rubygems.org/gems/liquid_tag_with_params) [![Gem Downloads](https://img.shields.io/gem/dt/liquid_tag_with_params.svg?style=flat)](http://rubygems.org/gems/liquid_tag_with_params) [![Build Status](https://img.shields.io/travis/comfy/liquid_tag_with_params.svg?style=flat)](https://travis-ci.org/comfy/liquid_tag_with_params)
+[![Gem Version](https://img.shields.io/gem/v/liquid_tag_with_params.svg?style=flat)](http://rubygems.org/gems/liquid_tag_with_params) [![Gem Downloads](https://img.shields.io/gem/dt/liquid_tag_with_params.svg?style=flat)](http://rubygems.org/gems/liquid_tag_with_params) [![Build Status](https://img.shields.io/travis/GBH/liquid_tag_with_params.svg?style=flat)](https://travis-ci.org/GBH/liquid_tag_with_params)
 
 This is a `Liquid::TagWithParams` that extends `Liquid::Tag` by adding support for, you guessed it, params.
 
